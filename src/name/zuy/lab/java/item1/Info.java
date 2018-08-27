@@ -1,7 +1,8 @@
 package name.zuy.lab.java.item1;
 
 public class Info {
-    public static void main(String... args) {
+
+    public Info() {
         System.out.println("Item 1: Consider static factory methods instead of constructors");
 
         A01HaveNames.info();
@@ -10,6 +11,11 @@ public class Info {
 
         D01BeSubclassed.info();
         D02AreNotReadilyDistinguishableFromOtherStaticMethods.info();
+    }
+
+    public static void main(String... args) {
+
+        new Info();
 
     }
 }
