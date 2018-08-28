@@ -4,11 +4,13 @@ public class Main {
 
     public static void main(String... args) {
 
-        System.out.println("1) ----------------------------");
+        System.out.println("---Creating and Destroying Objects---");
+        System.out.println("1) ----------------------------------");
         new name.zuy.lab.java.item1.Info();
-        System.out.println("2) ----------------------------");
+        System.out.println("2) ----------------------------------");
         new name.zuy.lab.java.item2.Info();
-        System.out.println("----------------------------");
+        System.out.println("3) ----------------------------------");
+        new name.zuy.lab.java.item3.Info();
 
     }
 
