@@ -4,7 +4,9 @@ public class Main {
 
     public static void main(String... args) {
 
+        System.out.println("-------------------------------------");
         System.out.println("---Creating and Destroying Objects---");
+        System.out.println("-------------------------------------");
         System.out.println("1) ----------------------------------");
         new name.zuy.lab.java.item1.Info();
         System.out.println("2) ----------------------------------");
@@ -19,6 +21,11 @@ public class Main {
         new name.zuy.lab.java.item6.Info();
         System.out.println("7) ----------------------------------");
         new name.zuy.lab.java.item7.Info();
+        System.out.println("-------------------------------------");
+        System.out.println("---Methods Common to All Objects-----");
+        System.out.println("-------------------------------------");
+        System.out.println("8) ----------------------------------");
+        new name.zuy.lab.java.item8.Info();
 
     }
 
