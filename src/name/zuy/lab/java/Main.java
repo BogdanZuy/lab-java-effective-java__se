@@ -30,6 +30,8 @@ public class Main {
         new name.zuy.lab.java.item9.Info();
         System.out.println("10) ---------------------------------");
         new name.zuy.lab.java.item10.Info();
+        System.out.println("11) ---------------------------------");
+        new name.zuy.lab.java.item11.Info();
 
     }
 
