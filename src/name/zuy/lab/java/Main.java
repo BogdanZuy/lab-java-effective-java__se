@@ -21,6 +21,7 @@ public class Main {
         new name.zuy.lab.java.item6.Info();
         System.out.println("7) ----------------------------------");
         new name.zuy.lab.java.item7.Info();
+
         System.out.println("-------------------------------------");
         System.out.println("---Methods Common to All Objects-----");
         System.out.println("-------------------------------------");
@@ -34,6 +35,7 @@ public class Main {
         new name.zuy.lab.java.item11.Info();
         System.out.println("12) ---------------------------------");
         new name.zuy.lab.java.item12.Info();
+
         System.out.println("-------------------------------------");
         System.out.println("---Classes and Interfaces------------");
         System.out.println("-------------------------------------");
