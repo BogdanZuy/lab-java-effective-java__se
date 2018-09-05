@@ -4,7 +4,7 @@ public class Info {
 
     public Info() {
 
-        System.out.println("Item 11: Override clone judiciously.\n" +
+        System.out.println("Item 1: Override clone judiciously.\n" +
                 "If you override the clone method in a nonfinal class, you should return an object obtained by invoking super.clone.\n" +
                 "In practice, a class that implements Cloneable is expected to provide a properly functioning public clone method.\n" +
                 "Never make the client do anything the library can do for the client\n" +
