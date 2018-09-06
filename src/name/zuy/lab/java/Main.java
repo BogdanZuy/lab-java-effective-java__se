@@ -39,6 +39,10 @@ public class Main {
         System.out.println("-------------------------------------");
         System.out.println("---Classes and Interfaces------------");
         System.out.println("-------------------------------------");
+        System.out.println("13) ---------------------------------");
+        new name.zuy.lab.java.item13.Info();
+        System.out.println("14) ---------------------------------");
+        new name.zuy.lab.java.item14.Info();
 
     }
 
